@@ -6,3 +6,4 @@ DOTFILESDIR="$(pwd -P)"
 echo "current directory: $DOTFILESDIR"
 
 ln -sf "$DOTFILESDIR/.gitconfig" "$HOME/.gitconfig"
+ln -sf "$DOTFILESDIR/.bashrc" "$HOME/.bashrc"
