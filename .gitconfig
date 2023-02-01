@@ -1,5 +1,3 @@
-[pull]
-        rebase = true
 [rebase]
         autostash = true
 [alias]
